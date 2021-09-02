@@ -1,8 +1,8 @@
 <?php 
  
 // hCAPTCHA API key configuration 
-$sitekey = '3f2bd1c1-9b2b-4716-ac25-90fbe6644ab0';
-$secretKey = '0x638B151F092185DfD51A4E75361551C6Aef1dC8c'; 
+$sitekey = 'your Key';
+$secretKey = 'Your Key'; 
  
 // If the form is submitted 
 $postData = $statusMsg = ''; 
